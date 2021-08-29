@@ -8,8 +8,9 @@
 <table>
  <tr>
    <td>
-    <a href="">
-     <img src="" />
+    <a href="https://github.com/geeky01adarsh/DSA-Marathon/graphs/contributors">
+  			<img src="https://contributors-img.web.app/image?repo=geeky01adarsh/DSA-Marathon" />
+  		</a>
     </a>
   </td>
  </tr>
