@@ -3,9 +3,11 @@
 - [Syllabus](Syllabus.md)
 - [Faqs](faqs.md)
 
-### All amazing members of these series
+# Topics
 
-<table>
+<!-- ### All amazing members of these series -->
+
+<!-- <table>
  <tr>
    <td>
     <a href="https://github.com/geeky01adarsh/DSA-Marathon/graphs/contributors">
@@ -14,7 +16,7 @@
     </a>
   </td>
  </tr>
-</table>
+</table> -->
 
 <hr>
 

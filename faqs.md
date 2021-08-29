@@ -12,4 +12,7 @@ What will be the language?
 Will there be any practice questions?
 > Yes, you will be provided questions for practice daily.
 
+How can I see the solution of questions?
+> Solutions of questions will be launched just next day to the questions provided.
+
 Any more questions? Feel free to contact [Adarsh](https://linktr.ee/geeky01adarsh)
