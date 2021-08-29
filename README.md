@@ -3,8 +3,8 @@
 - [Syllabus](Syllabus.md)
 - [Faqs](faqs.md)
 
-# Topics
-
+### Topics
+- Arrays[/Array]
 <!-- ### All amazing members of these series -->
 
 <!-- <table>
