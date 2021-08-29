@@ -31,8 +31,8 @@
         - N-Knights
         - Maze problems
 - Greedy Algorithms
-- Linked List
 - Stacks & Queues
+- Linked List
 - Dynamic Programming
     - Recursion + Recursion DP + Iteration + Iteration Space Optimized
     - Questions 
