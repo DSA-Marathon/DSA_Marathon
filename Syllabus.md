@@ -1,0 +1,72 @@
+# Syllabus
+
+
+- Complete Git & GitHub Course
+- Time and Space Complexity
+- Arrays
+- Searching and Sorting
+    - Searching
+        - Linear Search
+        - Binary Search
+    - Sorting
+        - Insertion Sort
+        - Selection Sort
+        - Bubble Sort
+        - Count Sort
+        - Radix Sort
+        - Cyclic Sort
+- Strings
+- Maths for DSA
+    - Complete Bitwise Operators
+    - Prime numbers
+    - HCF / LCM
+    - Sieve of Eratosthenes
+- Recursion
+    - Sorting:
+        - Merge Sort
+        - Quick Sort
+    - Backtracking
+        - Sudoku Solver
+        - N-Queens
+        - N-Knights
+        - Maze problems
+- Greedy Algorithms
+- Linked List
+- Stacks & Queues
+- Dynamic Programming
+    - Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - Questions 
+        - 0/1 Knapsack
+        - Subset Questions
+        - Unbounded Knapsack
+        - Subsequence questions
+- Trees
+    - Binary Trees
+    - Binary Search Trees
+    - DFS
+    - BFS
+    - AVL Trees
+    - Segment Tree
+    - Fenwick Tree / Binary Indexed Tree
+- Heaps
+- HashMap
+    - Limitations and how to solve
+    - Map using LinkedList
+    - Map using Hash
+    - Chaining
+    - Probing
+    - Huffman-Encoder
+- Tries
+- Graphs
+    - Introduction
+    - BFS
+    - DFS
+    - Working with graph components
+    - Minimum Spanning Trees
+    - Important Algorithm
+        - Kruskal Algorithm
+        - Prims Algorithm
+        - Dijkstra’s shortest path algorithm
+        - Topological Sort
+        - Bellman ford
+        - A* pathfinding Algorithm
