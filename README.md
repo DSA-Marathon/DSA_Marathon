@@ -4,7 +4,8 @@
 - [Faqs](faqs.md)
 
 ### Topics
-- Arrays[/Array]
+- [Array](/Array)
+
 <!-- ### All amazing members of these series -->
 
 <!-- <table>

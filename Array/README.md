@@ -5,5 +5,6 @@
 | S.No. | Topic | Implementation |
 | ---  | ------ | -------------- |
 
-| Date | Question | Solution |
-| ---  | ------ | -------------- |
+## Questions for practice
+| Date | Question | Solution | Difficulty |
+| ---  | ------ | -------------- | ----- |
