@@ -5,6 +5,7 @@
 - [Code of Conduct](Code_of_Conduct.md)
 - [How to get started](Get_Stated.md)
 ### Topics
+- [Git and Github](/Git_and_Github)
 - [Array](/Array)
 
 <!-- ### All amazing members of these series -->
