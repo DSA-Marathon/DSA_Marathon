@@ -6,9 +6,10 @@
 
 ## How to contribute
 
-1. Fork the project
-2. Make any changes in your forked repo
-3. On this repo, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop down
+1. Make your own repo for solution submissions
+2. Fork the project
+3. Make any changes in your forked repo
+4. On this repo, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop down
 
 Questions can be asked by raising an `Issue`.
 
@@ -84,3 +85,8 @@ or
 Hurray! You successfully made a contribution!
 
 ---
+
+
+## Participants -
+
+1. [Adarsh](https://github.com/geeky01adarsh) => [Repo](https://github.com/geeky01adarsh/DSA-Marathon)
