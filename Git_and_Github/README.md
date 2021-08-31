@@ -1,6 +1,6 @@
 # Git and Github
 
-### Access to quality notes and important commands from [here]()
+### Access to quality notes and important commands from [here](https://dev.to/rishabh055/what-is-version-control-system-cfi)
 
 ### How to participate
 
