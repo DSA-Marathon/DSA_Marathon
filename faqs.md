@@ -15,4 +15,7 @@ Will there be any practice questions?
 How can I see the solution of questions?
 > Solutions of questions will be launched just next day to the questions provided.
 
+I can't solve problems. What sholud I do?
+> Prefer getting answer via [this article](https://dev.to/geeky01adarsh/i-can-t-solve-problems-what-should-i-do-3ei7). 
+
 Any more questions? Feel free to contact [Adarsh](https://linktr.ee/geeky01adarsh)
