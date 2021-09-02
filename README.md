@@ -5,7 +5,7 @@
 <img  align="center" width="50%" src="Images/logo.jpg" alt="">
 <br>
 <p>
-<b>Full Pledged DSA Marathon from zero to Hundred. Enhance Your Data Structure and Algorithm knowledge with us.
+<b>Full fledged DSA Marathon from zero to Hundred. Enhance Your Data Structure and Algorithm knowledge with us.
 A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 </b>
 </p>
