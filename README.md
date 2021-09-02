@@ -1,5 +1,17 @@
-# DSA - Marathon
+<p align = 'center'>
+<img src = "https://img.shields.io/badge/DSA_MARATHON-4B275F?style=for-the-badge" width = '50%'/>
+</p>
+<div align = "center">
+<img  align="center" width="50%" src="Images/logo.jpg" alt="">
+<br>
+<p>
+<b>Full Pledged DSA Marathon from zero to Hundred. Enhance Your Data Structure and Algorithm knowledge with us.
+A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
+</b>
+</p>
+</div>
 
+- [Resistration Form](https://docs.google.com/forms/d/e/1FAIpQLSeSWXG04wekDV13L_nrPYsMSdRyhbCcRsWQkzdfNg_iTSHc_w/viewform)
 - [Syllabus](Syllabus.md)
 - [Faqs](faqs.md)
 - [Code of Conduct](Code_of_Conduct.md)
@@ -8,9 +20,23 @@
 - [Git and Github](/Git_and_Github)
 - [Array](/Array)
 
-<!-- ### All amazing members of these series -->
+## Follow for More Update
+[DSA MARATHON](https://linktr.ee/dsa_marathon)
 
-<!--  <table>
+### Instagram :
+* [CodeIISTChapter](https://www.instagram.com/codechef_iist_chapter/)
+* [GFGIISTChapter](https://www.instagram.com/gfg_iist_chapter/)
+
+### Linkedin :
+* [CodeIISTChapter](https://www.linkedin.com/company/codechef-iist-chapter/)
+* [GFGIISTChapter](https://www.linkedin.com/company/geeksforgeeks-iist/)
+
+### Twitter :
+* [CodeIISTChapter](https://twitter.com/ChapterIist)
+* [GFGIISTChapter](https://twitter.com/GFGIISTChapter)
+
+<!-- ### All amazing members of these series -->
+ <!-- <table>
  <tr>
    <td>
     <a href="https://github.com/geeky01adarsh/DSA-Marathon/graphs/contributors">
@@ -20,14 +46,5 @@
   </td>
  </tr>
 </table>  -->
-
 <hr>
-<p align='center'>
-<a href="https://github.com/geeky01adarsh/DSA-Marathon/stargazers"><img src="https://img.shields.io/github/stars/geeky01adarsh/DSA-Marathon" alt="Stars Badge"/></a>
-<a href="https://github.com/geeky01adarsh/DSA-Marathon/members"><img src="https://img.shields.io/github/forks/geeky01adarsh/DSA-Marathon" alt="Forks Badge"/></a>
-<a href="https://github.com/geeky01adarsh/DSA-Marathon/pulls"><img src="https://img.shields.io/github/issues-pr/geeky01adarsh/DSA-Marathon" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/geeky01adarsh/DSA-Marathon/issues"><img src="https://img.shields.io/github/issues/geeky01adarsh/DSA-Marathon" alt="Issues Badge"/></a>
-<!-- <a href="https://github.com/geeky01adarsh/DSA-Marathon/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/geeky01adarsh/DSA-Marathon?color=2b9348"></a> -->
-<a href="https://github.com/geeky01adarsh/DSA-Marathon/blob/master/LICENSE"><img src="https://img.shields.io/github/license/geeky01adarsh/DSA-Marathon?color=2b9348" alt="License Badge"/></a>
-</p>
 <h1 align=center> Happy Coding 👨‍💻 </h1>
