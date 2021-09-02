@@ -26,9 +26,9 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 <h2 align='center'><a href='https://linktr.ee/dsa_marathon'> DSA MARATHON </a></h2>
 
 
-<h3 align='center'> @CodeIISTChapter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @GFGIISTChapter </h3>
+<h3 align='center'> &nbsp;&nbsp;@CodeIISTChapter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @GFGIISTChapter</h3>
 
-<p align = 'center'>
+<p align = 'center'>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/codechef_iist_chapter/">
   <img align="center" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"  />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
