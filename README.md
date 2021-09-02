@@ -23,17 +23,18 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 ## Follow for More Update
 [DSA MARATHON](https://linktr.ee/dsa_marathon)
 
-### Instagram :
-* [CodeIISTChapter](https://www.instagram.com/codechef_iist_chapter/)
-* [GFGIISTChapter](https://www.instagram.com/gfg_iist_chapter/)
 
-### Linkedin :
-* [CodeIISTChapter](https://www.linkedin.com/company/codechef-iist-chapter/)
-* [GFGIISTChapter](https://www.linkedin.com/company/geeksforgeeks-iist/)
+### CodeIISTChapter
+* [Instagram](https://www.instagram.com/codechef_iist_chapter/)
+* [Linkedin](https://www.linkedin.com/company/codechef-iist-chapter/)
+* [Twitter](https://twitter.com/ChapterIist)
+### GFGIISTChapter
 
-### Twitter :
-* [CodeIISTChapter](https://twitter.com/ChapterIist)
-* [GFGIISTChapter](https://twitter.com/GFGIISTChapter)
+* [Instagram](https://www.instagram.com/gfg_iist_chapter/)
+
+* [Linkedin](https://www.linkedin.com/company/geeksforgeeks-iist/)
+
+* [Twitter ](https://twitter.com/GFGIISTChapter)
 
 <!-- ### All amazing members of these series -->
  <!-- <table>
