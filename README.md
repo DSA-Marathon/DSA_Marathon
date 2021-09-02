@@ -1,8 +1,10 @@
 <p align = 'center'>
-<img src = "https://img.shields.io/badge/DSA_MARATHON-4B275F?style=round" width = '50%'/>
+ <a href='https://linktr.ee/dsa_marathon'>
+  <img src = "https://img.shields.io/badge/DSA_MARATHON-4B275F?style=round" width = '50%'/></a>
 </p>
 <div align = "center">
-<img  align="center" width="90%" src="Images/logo.jpg" alt="">
+ <a href='https://linktr.ee/dsa_marathon'>
+<img  align="center" width="90%" src="Images/logo.jpg" alt=""></a>
 <br>
 <p>
 <b>Full fledged DSA Marathon from zero to Hundred. Enhance Your Data Structure and Algorithm knowledge with us.
@@ -21,20 +23,32 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 - [Array](/Array)
 
 ## Follow for More Update
-[DSA MARATHON](https://linktr.ee/dsa_marathon)
+<h2 align='center'><a href='https://linktr.ee/dsa_marathon'> DSA MARATHON </a></h2>
 
 
-### CodeIISTChapter
-* [Instagram](https://www.instagram.com/codechef_iist_chapter/)
-* [Linkedin](https://www.linkedin.com/company/codechef-iist-chapter/)
-* [Twitter](https://twitter.com/ChapterIist)
-### GFGIISTChapter
+<h3 align='center'> @CodeIISTChapter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @GFGIISTChapter </h3>
 
-* [Instagram](https://www.instagram.com/gfg_iist_chapter/)
-
-* [Linkedin](https://www.linkedin.com/company/geeksforgeeks-iist/)
-
-* [Twitter ](https://twitter.com/GFGIISTChapter)
+<p align = 'center'>
+<a href="https://www.instagram.com/codechef_iist_chapter/">
+  <img align="center" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"  />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/codechef-iist-chapter/">
+  <img align="center" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"  />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/ChapterIist">
+  <img align="center" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"  />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/gfg_iist_chapter/">
+  <img align="center" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"  />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/geeksforgeeks-iist/">
+  <img align="center" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"  />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/GFGIISTChapter">
+  <img align="center" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"  />
+</a>
+</p>
 
 <!-- ### All amazing members of these series -->
  <!-- <table>
