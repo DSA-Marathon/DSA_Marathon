@@ -1,8 +1,8 @@
 <p align = 'center'>
-<img src = "https://img.shields.io/badge/DSA_MARATHON-4B275F?style=for-the-badge" width = '50%'/>
+<img src = "https://img.shields.io/badge/DSA_MARATHON-4B275F?style=round" width = '50%'/>
 </p>
 <div align = "center">
-<img  align="center" width="50%" src="Images/logo.jpg" alt="">
+<img  align="center" width="90%" src="Images/logo.jpg" alt="">
 <br>
 <p>
 <b>Full fledged DSA Marathon from zero to Hundred. Enhance Your Data Structure and Algorithm knowledge with us.
