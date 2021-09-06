@@ -7,7 +7,7 @@
 <img  align="center" width="90%" src="Images/logo.jpg" alt=""></a>
 <br>
 <p>
-<b>Full fledged DSA Marathon from zero to Hundred. Enhance Your Data Structure and Algorithm knowledge with us.
+<b>Full fledged DSA Marathon from Zero to Hundred. Enhance Your Data Structure and Algorithm knowledge with us.
 A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 </b>
 </p>
@@ -16,8 +16,8 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 - [Resistration Form](https://docs.google.com/forms/d/e/1FAIpQLSeSWXG04wekDV13L_nrPYsMSdRyhbCcRsWQkzdfNg_iTSHc_w/viewform)
 - [Syllabus](Syllabus.md)
 - [Faqs](faqs.md)
-- [Code of Conduct](Code_of_Conduct.md)
-- [How to get started](Get_Stated.md)
+<!-- - [Code of Conduct](Code_of_Conduct.md) -->
+<!-- - [How to get started](Get_Stated.md) -->
 ### Topics
 - [Git and Github](/Git_and_Github)
 - [Array](/Array)
