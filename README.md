@@ -20,6 +20,7 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 <!-- - [How to get started](Get_Stated.md) -->
 ### Topics
 - [Git and Github](/Git_and_Github)
+- [Basic Language Questions](/Basic_language_ques)
 - [Array](/Array)
 
 ## Follow for More Update
