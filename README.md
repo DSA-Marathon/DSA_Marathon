@@ -52,6 +52,8 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 </p>
 
 ### All amazing members of these series -->
+<h2 align=left>Y</h2>
+<p>Yahwanth Kumar M V</p><a href="https://github.com/yashwanth0203"><p>DSA-Marathon-1</p><a href="https://github.com/yashwanth0203/DSA-Marathon-1">
 
 <table>
  <tr>
