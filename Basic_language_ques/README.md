@@ -9,6 +9,6 @@
 | 09/10/2021 |[Armstrong Number](https://www.codechef.com/problems/ARM1234) | Will be uploaded here tomorrow  | Basic |
 
 
-> **Important NOTE** - If you cam up with an optimal solution then you can open a PR and you solution will be hosted here. Best Wishes!!!
+> **Important NOTE** - If you come up with an optimal solution then you can open a PR and you solution will be hosted here. Best Wishes!!!
 
 > Help us track your progress by maintaing a repo with your daily problem solutions and add them [here](https://github.com/geeky01adarsh/DSA-Marathon/tree/main/Git_and_Github#participants--)
