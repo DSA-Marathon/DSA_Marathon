@@ -3,10 +3,10 @@
 ## Questions for practice
 | Date | Question | Solution | Difficulty |
 | ---  | ------ | -------------- | ----- |
-| 09/10/2021 |[Dice Problem](https://practice.geeksforgeeks.org/problems/the-dice-problem2316/1/?category[]=Mathematical&category[]=Mathematical&page=1&query=category[]Mathematicalpage1category[]Mathematical)|Will be uploaded here tomorrow  | Basic |
-| 09/10/2021 |[Prime Number](https://practice.geeksforgeeks.org/problems/prime-number2314/1) |Will be uploaded here tomorrow  |  Basic |
-| 09/10/2021 |[Inverted Triangle](https://practice.geeksforgeeks.org/problems/inverted-triangle-of-stars0110/1) | Will be uploaded here tomorrow  | Basic |
-| 09/10/2021 |[Armstrong Number](https://www.codechef.com/problems/ARM1234) | Will be uploaded here tomorrow  | Basic |
+| 09/10/2021 |[Dice Problem](https://practice.geeksforgeeks.org/problems/the-dice-problem2316/1/?category[]=Mathematical&category[]=Mathematical&page=1&query=category[]Mathematicalpage1category[]Mathematical)|[CPP Solution](dice.cpp) | Basic |
+| 09/10/2021 |[Prime Number](https://practice.geeksforgeeks.org/problems/prime-number2314/1) | [CPP Solution](prime_number.cpp) |  Basic |
+| 09/10/2021 |[Inverted Triangle](https://practice.geeksforgeeks.org/problems/inverted-triangle-of-stars0110/1) | [CPP Solution](https://github.dev/geeky01adarsh/DSA-Marathon/blob/350b2f1e310f00e0eca4181184d344acb887550b/Basic_language_ques/Inverted%20triangle%20of%20star.cpp)  | Basic |
+
 
 
 > **Important NOTE** - If you come up with an optimal solution then you can open a PR and you solution will be hosted here. Best Wishes!!!
