@@ -51,8 +51,9 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 </a>
 </p>
 
-<!-- ### All amazing members of these series -->
- <!-- <table>
+### All amazing members of these series -->
+
+<table>
  <tr>
    <td>
     <a href="https://github.com/geeky01adarsh/DSA-Marathon/graphs/contributors">
@@ -61,6 +62,6 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
     </a>
   </td>
  </tr>
-</table>  -->
+</table> 
 <hr>
 <h1 align=center> Happy Coding 👨‍💻 </h1>
