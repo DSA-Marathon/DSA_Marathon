@@ -13,17 +13,25 @@ public class Leapyear
     static int isLeap(int N)
     {
         
-        int r=0;
-
+        int result=0;
+        
         if(N%400==0)
-            r=1;
+            result=1;
         else if(N%100==0)
-            r=0;
+            result=0;
         else if(N%4==0)
-            r=1;
+            result=1;
         else
-            r=0;
+            result=0;
 
-        return r;
+        return result;
+
+        /*
+        You can also make use of operators as below
+        if((N%4==0 && N%100 !=0) || (N%400 == 0))
+            return 1;
+        else
+            return 0;
+        */
     }
 }
