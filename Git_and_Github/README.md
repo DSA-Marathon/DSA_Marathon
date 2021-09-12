@@ -90,5 +90,4 @@ Hurray! You successfully made a contribution!
 ## Participants -
 
 1. [Adarsh](https://github.com/geeky01adarsh) => [Repo](https://github.com/geeky01adarsh/DSA-Marathon)
-2. [Luv](https://github.com/luvksahu)
 <!-- Enter your names below this line -->
