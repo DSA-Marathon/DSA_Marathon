@@ -13,7 +13,7 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 </p>
 </div>
 
-- [Resistration Form](https://docs.google.com/forms/d/e/1FAIpQLSeSWXG04wekDV13L_nrPYsMSdRyhbCcRsWQkzdfNg_iTSHc_w/viewform)
+- [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeSWXG04wekDV13L_nrPYsMSdRyhbCcRsWQkzdfNg_iTSHc_w/viewform)
 - [Syllabus](Syllabus.md)
 - [Faqs](faqs.md)
 <!-- - [Code of Conduct](Code_of_Conduct.md) -->
