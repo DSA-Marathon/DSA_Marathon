@@ -2,7 +2,7 @@
 
 ## Questions for practice
 | Date | Question | Solution | Difficulty |
-| ---  | ------ | ------|-------- | ----- |
+| ---  | ------ | -------------- | ----- |
 | 09/10/2021 |[Dice Problem](https://practice.geeksforgeeks.org/problems/the-dice-problem2316/1/?category[]=Mathematical&category[]=Mathematical&page=1&query=category[]Mathematicalpage1category[]Mathematical)|[CPP Solution](dice.cpp) | [Java Solution](dice.java) | Basic |
 | 09/10/2021 |[Prime Number](https://practice.geeksforgeeks.org/problems/prime-number2314/1) | [CPP Solution](prime_number.cpp) | [Java Solution](Prime_number.java) |  Basic |
 | 09/10/2021 |[Inverted Triangle](https://practice.geeksforgeeks.org/problems/inverted-triangle-of-stars0110/1) | [CPP Solution](https://github.com/geeky01adarsh/DSA-Marathon/blob/main/Basic_language_ques/Inverted%20triangle%20of%20star.cpp) | [Java Solution](Inverted_triangle_of_stars.java)  | Basic |
