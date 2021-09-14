@@ -11,6 +11,7 @@ public class LCM_and_GCD {
         Long ptr[]=lcmandgcd(A, B);
 
         System.out.println(ptr[0]+" "+ptr[1]);
+        sc.close();
     }
     // On GFG they have made a seperate Solution Class but here I am not creating seperate class
     static Long[] lcmandgcd(Long A, Long B)
