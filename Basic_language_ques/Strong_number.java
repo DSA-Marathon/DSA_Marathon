@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java .io.IOException;
+import java.io.IOException;
 
 class Strong_number{
     public static void main(String[] args)throws IOException 
