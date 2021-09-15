@@ -16,6 +16,6 @@
 | 14/10/2021 | [Print Pattern](https://practice.geeksforgeeks.org/problems/pattern-13116/1/?category[]=pattern-printing&category[]=pattern-printing&page=1&query=category[]pattern-printingpage1category[]pattern-printing) |[CPP Solution](Printpattern.cpp) |[Java Solution](Print_pattern.java)|Basic|
 
 
-> **Important NOTE** - If you come up with an optimal solution then you can open a PR and you solution will be hosted here. Best Wishes!!!
+> **Important NOTE** - If you come up with an optimal solution then you can open a PR and your solution will be hosted here. Best Wishes!!!
 
 > Help us track your progress by maintaing a repo with your daily problem solutions and add them [here](https://github.com/geeky01adarsh/DSA-Marathon/tree/main/Git_and_Github#participants--)
