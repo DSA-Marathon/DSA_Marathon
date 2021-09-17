@@ -132,6 +132,8 @@ most efficient(if the task to be performed is not an issue)?
 
 ******
 
+## Question 7 
+
 Consider the following C function.
 ```
 int fun1 (int n)
@@ -158,7 +160,7 @@ Which one of the following most closely approximates the
 - (D) nlog(logn)
 ******
 
-## Question 7 
+## Question 8
 
 Let A[1, ..., n] be an array storing a bit (1 or 0) at each location, 
 and f(m) is a function whose time complexity is θ(m). 
