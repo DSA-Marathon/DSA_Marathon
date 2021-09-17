@@ -11,8 +11,9 @@ int fun(int n)
         count = count + 1;
   return count;
 }
+O(n^2)
 ```
-O(n^2) since there are two loops in which eaach loop is getting incremented linearly
+O(n^2) since there are two loops in which each loop is getting incremented linearly
 
 ## Question 2
 _What is time complexity of fun()?_
@@ -25,7 +26,7 @@ int fun(int n)
         count += 1;
   return count;
 }
-```
+``
 O(nlogn) since in first loop its decreasing logarithmically and in second loop increasing linearly.
 
 ## Question 3
@@ -41,6 +42,7 @@ void fun(int n, int arr[])
 }
 ```
 O(n) j can be incremented atmost n times.
+
 
 ## Question 4
 _Consider the following two functions. What are time complexities of the functions?_
