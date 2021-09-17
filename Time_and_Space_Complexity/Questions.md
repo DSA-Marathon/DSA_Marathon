@@ -11,6 +11,7 @@ int fun(int n)
         count = count + 1;
   return count;
 }
+O(n^2)
 ```
 
 ## Question 2
@@ -25,6 +26,7 @@ int fun(int n)
   return count;
 }
 ```
+O(nlogn)
 
 ## Question 3
 _What is the time complexity of the below function?_
@@ -36,7 +38,7 @@ void fun(int n, int arr[])
         while(j < n && arr[i] < arr[j])
             j++;
 }
-```
+```O(n)
 
 ## Question 4
 _Consider the following two functions. What are time complexities of the functions?_
@@ -57,6 +59,7 @@ int fun2(int n)
 - b. O(n) for fun1() and O(2^n) for fun2()
 - c. O(2^n) for fun1() and O(n) for fun2()
 - d. O(n) for both fun1() and fun2()
+Ans is b.
 
 ## Question 5
 _Consider the following C-function:_
@@ -81,3 +84,4 @@ _The space complexity of the above function is:_
 - (B) O(n)
 - (C) O(n!)
 - (D) O(n*n)
+  Ans is B
