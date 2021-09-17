@@ -53,7 +53,6 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 
 ### All amazing members of these series -->
 
-
 <table>
  <tr>
    <td>
