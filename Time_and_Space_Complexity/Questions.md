@@ -11,7 +11,6 @@ int fun(int n)
         count = count + 1;
   return count;
 }
-O(n^2) since ther are two for loops with each incrementing one at a time.
 ```
 
 ## Question 2
@@ -25,7 +24,7 @@ int fun(int n)
         count += 1;
   return count;
 }
-```O(nlogn)since in first for loop it is decrementing logarithmically.
+```
 
 ## Question 3
 _What is the time complexity of the below function?_
@@ -37,11 +36,7 @@ void fun(int n, int arr[])
         while(j < n && arr[i] < arr[j])
             j++;
 }
-O(n)the inner j++ will be executed at most n times.
-
-The i loop also runs n times.
-
-So, the whole thing runs for O(n) times.
+```
 
 ## Question 4
 _Consider the following two functions. What are time complexities of the functions?_
@@ -62,12 +57,7 @@ int fun2(int n)
 - b. O(n) for fun1() and O(2^n) for fun2()
 - c. O(2^n) for fun1() and O(n) for fun2()
 - d. O(n) for both fun1() and fun2()
-Time complexity of fun1() can be written as
-T(n) = T(n-1) + K          O(n)
 
-Time complexity of fun2() can be written as
-T(n) = 2T(n-1) + K          O(2^n)
-Therefore it is option B
 ## Question 5
 _Consider the following C-function:_
 ```
@@ -91,5 +81,3 @@ _The space complexity of the above function is:_
 - (B) O(n)
 - (C) O(n!)
 - (D) O(n*n)
-  Answer is O(n)
-  
