@@ -92,4 +92,4 @@ Hurray! You successfully made a contribution!
 1. [Adarsh](https://github.com/geeky01adarsh) => [Repo](https://github.com/geeky01adarsh/DSA-Marathon)
 
 <!-- Enter your names below this line -->
-2.[Yashwanth](https://github.com/yashwanth0203)=>[Repo](https://github.com/yashwanth0203/DSA-Marathon-1)
+2. [Yashwanth](https://github.com/yashwanth0203)=>[Repo](https://github.com/yashwanth0203/DSA-Marathon-1)
