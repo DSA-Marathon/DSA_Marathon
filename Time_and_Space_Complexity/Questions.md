@@ -12,6 +12,7 @@ int fun(int n)
   return count;
 }
 ```
+O(n^2) since there are two loops in which eaach loop is getting incremented linearly
 
 ## Question 2
 _What is time complexity of fun()?_
@@ -25,9 +26,11 @@ int fun(int n)
   return count;
 }
 ```
+O(nlogn) since in first loop its decreasing logarithmically and in second loop increasing linearly.
 
 ## Question 3
 _What is the time complexity of the below function?_
+
 ```
 void fun(int n, int arr[])
 {
@@ -37,6 +40,7 @@ void fun(int n, int arr[])
             j++;
 }
 ```
+O(n) j can be incremented atmost n times.
 
 ## Question 4
 _Consider the following two functions. What are time complexities of the functions?_
@@ -57,6 +61,12 @@ int fun2(int n)
 - b. O(n) for fun1() and O(2^n) for fun2()
 - c. O(2^n) for fun1() and O(n) for fun2()
 - d. O(n) for both fun1() and fun2()
+ 
+ Time complexity of fun1() can be written as
+T(n) = T(n-1) + C which is O(n)
+
+Time complexity of fun2() can be written as
+T(n) = 2T(n-1) + C which is O(2^n)
 
 ## Question 5
 _Consider the following C-function:_
@@ -81,3 +91,5 @@ _The space complexity of the above function is:_
 - (B) O(n)
 - (C) O(n!)
 - (D) O(n*n)
+      
+      O(n)
