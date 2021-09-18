@@ -129,7 +129,8 @@ most efficient(if the task to be performed is not an issue)?
 - (C)  C
 - (D)  D
 
-
+### Solution 
+C. Because in first case the loop will execute n times , in second case it will be n/2, in third case it is logn time and if we closely observe then it is an infinite loop.
 ******
 
 ## Question 7 
@@ -158,6 +159,9 @@ Which one of the following most closely approximates the
 - (B) n (logn)^2
 - (C) nlogn
 - (D) nlog(logn)
+
+### Solution 
+C. Because inside a n times loop there will be two logn loop. Total of nlogn.
 ******
 
 ## Question 8
@@ -184,3 +188,5 @@ The complexity of this program fragment is
 - (B) Ω(nlog n) and O(n^2)
 - (C) θ(n)
 - (D) O(n)
+### Solution 
+Ans is C. All 1s take  θ(n) , all 0s take  θ(n) , half 0s and half 1s take  θ(n). 
