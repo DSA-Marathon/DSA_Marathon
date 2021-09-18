@@ -17,6 +17,7 @@ public class How_many_digits_i_have {
 
         else
             System.out.println("More than 3 digits");
+        sc.close();
     }
 }
 // Print "1" if nuum is a 1 digit number. 

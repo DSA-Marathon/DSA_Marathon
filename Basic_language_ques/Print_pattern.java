@@ -20,5 +20,6 @@ public class Print_pattern
                 
             System.out.println("");
         }
+        sc.close();
     }
 }

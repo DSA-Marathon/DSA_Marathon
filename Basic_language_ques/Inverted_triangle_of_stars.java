@@ -17,5 +17,6 @@ public class Inverted_triangle_of_stars {
 
             System.out.println("");
         }
+        sc.close();
     }
 }

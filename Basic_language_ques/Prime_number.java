@@ -9,6 +9,7 @@ public class Prime_number
         int n=sc.nextInt();
 
         System.out.println(isPrime(n));
+        sc.close();
     }
     static int isPrime(int n)
     {
