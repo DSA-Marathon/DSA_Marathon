@@ -108,9 +108,7 @@ O(n) as for the worst time complexity the loop will execute n times.
 ******
 
 ## Question 6
-In a competition, four different functions are observed. 
-All the functions use a single for loop and within the for loop,
-same set of statements are executed. 
+In a competition, four different functions are observed. All the functions use a single for loop and within the for loop, same set of statements are executed. 
 Consider the following for loops:
 
 A) ```for(i = 0; i < n; i++)```
@@ -121,8 +119,7 @@ C) ```for(i = 1; i < n; i *= 2)```
  
 D) ```for(i = n; i > -1; i /= 2)```
 
-If n is the size of input(positive), which function is 
-most efficient(if the task to be performed is not an issue)?
+If n is the size of input(positive), which function is most efficient(if the task to be performed is not an issue)?
 
 - (A)  A
 - (B)  B
@@ -130,7 +127,7 @@ most efficient(if the task to be performed is not an issue)?
 - (D)  D
 
 ### Solution 
-C. Because in first case the loop will execute n times , in second case it will be n/2, in third case it is logn time and if we closely observe then it is an infinite loop.
+C. Because in first case the loop will execute n times, in second case it will be n/2, in third case it is log(n) time and if we closely observe then it is an infinite loop.
 ******
 
 ## Question 7 
@@ -151,14 +148,13 @@ int fun1 (int n)
    return q;
 }
 ```
-Which one of the following most closely approximates the
- return value of the function fun1?
+Which one of the following most closely approximates the return value of the function fun1?
 (GATE-CS-2015 -> Set 1)
 
 - (A) n^3
-- (B) n (logn)^2
-- (C) nlogn
-- (D) nlog(logn)
+- (B) n*(log(n))^2
+- (C) n*log(n)
+- (D) n*log(log(n))
 
 ### Solution 
 C. Because inside a n times loop there will be two logn loop. Total of nlogn.
@@ -166,8 +162,7 @@ C. Because inside a n times loop there will be two logn loop. Total of nlogn.
 
 ## Question 8
 
-Let A[1, ..., n] be an array storing a bit (1 or 0) at each location, 
-and f(m) is a function whose time complexity is θ(m). 
+Let A[1, ..., n] be an array storing a bit (1 or 0) at each location, and f(m) is a function whose time complexity is θ(m). 
 Consider the following program fragment written in a C like language:
 counter = 0;
 ```
@@ -185,8 +180,65 @@ The complexity of this program fragment is
  ( GATE-CS-2004)
 
 - (A) Ω(n^2)
-- (B) Ω(nlog n) and O(n^2)
+- (B) Ω(n*log(n)) and O(n^2)
 - (C) θ(n)
 - (D) O(n)
 ### Solution 
-Ans is C. All 1s take  θ(n) , all 0s take  θ(n) , half 0s and half 1s take  θ(n). 
+Ans is C. All 1s take  θ(n), all 0s take  θ(n), half 0s and half 1s take θ(n). 
+
+
+## Question 9
+
+What is the time complexity of following function fun()?
+Assume that log(x) returns log value in base 2.
+```
+void fun()
+{
+   int i, j;
+   for (i=1; i<=n; i++)
+      for (j=1; j<=log(i); j++)
+         printf("GeeksforGeeks");
+}
+```
+(A)  Θ(n)
+(B)  Θ(n(log(n)))
+(C)  Θ(n^2)
+(D)  Θ(n^2*(log(n)))
+
+
+## Question 10
+
+What is the time and space complexity of the following dynamic programming algorithm 
+used to find the maximum sub-array sum?
+```
+#include<stdio.h>
+int max_num(int a,int b)
+{
+      if(a> b)
+         return a;
+      return b;
+}
+int maximum_subarray_sum(int *arr, int len)
+{
+      int sum[len], idx;
+      sum[0] = arr[0];
+      for(idx = 1; idx < len; idx++)
+         sum[idx] = max_num(sum[idx - 1] + arr[idx], arr[idx]);
+      int mx = sum[0];
+      for(idx = 0; idx < len; idx++)
+         if(sum[idx] > mx)
+             mx =sum[idx];
+         return mx;
+}
+int main()
+{
+      int arr[] = {-2, -5, 6, -2, 3, -1, 0,-5, 6}, len = 9;
+      int ans = maximum_subarray_sum(arr, len);
+      printf("%d",ans);
+      return 0;
+}
+```
+a) O(n) and O(n)
+b) O(logn) and O(1)
+c) O(nlogn) and O(n!)
+d) O(n2) and O(n2)
