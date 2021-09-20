@@ -204,7 +204,8 @@ void fun()
 (B)  Θ(n(log(n)))
 (C)  Θ(n^2)
 (D)  Θ(n^2*(log(n)))
-
+### Solution 
+Ans is B. Because Θ(logn!)=Θnlogn
 
 ## Question 10
 
@@ -242,3 +243,6 @@ a) O(n) and O(n)
 b) O(logn) and O(1)
 c) O(nlogn) and O(n!)
 d) O(n2) and O(n2)
+
+### Solution
+Ans is A
