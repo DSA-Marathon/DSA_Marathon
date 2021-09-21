@@ -16,3 +16,7 @@
 |20/09/2021| [Product of Array Elements](https://practice.geeksforgeeks.org/problems/product-of-array-element/1/?category[]=Arrays&category[]=Arrays&difficulty[]=-1&page=3&query=category[]Arraysdifficulty[]-1page3category[]Arrays) | Will be uploaded soon| Basic
 |20/09/2021| [Fighting the darkness](https://practice.geeksforgeeks.org/problems/fighting-the-darkness3949/1/?category[]=Arrays&category[]=Arrays&difficulty[]=-1&page=1&query=category[]Arraysdifficulty[]-1page1category[]Arrays) | Will be uploaded soon| Basic
 |20/09/2021| [Replace for X](https://www.codechef.com/problems/REPLESX) | Will be uploaded soon| Basic
+|21/09/2021| [Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Will be uploaded soon| Basic
+|21/09/2021| [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1) | Will be uploaded soon| Easy
+|21/09/2021| [Rearrange Array Alternately](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) | Will be uploaded soon| Medium
+|21/09/2021| [Count pairs with given sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1) | Will be uploaded soon| Medium
