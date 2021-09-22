@@ -20,3 +20,8 @@
 |21/09/2021| [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1) | Will be uploaded soon| Easy
 |21/09/2021| [Rearrange Array Alternately](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) | Will be uploaded soon| Medium
 |21/09/2021| [Count pairs with given sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1) | Will be uploaded soon| Medium
+|22/09/2021| [Multiply Matrices](https://practice.geeksforgeeks.org/problems/multiply-matrices/1) | Will be uploaded soon | Easy
+|22/09/2021| [Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) | Will be uploaded soon | Easy
+|22/09/2021| [Subarrays with equal 0s and 1s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1) | Will be uploaded soon | Medium
+|22/09/2021| [Common Elements](https://practice.geeksforgeeks.org/problems/common-elements1132/1) | Will be uploaded soon | Medium
+
