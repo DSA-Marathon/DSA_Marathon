@@ -24,4 +24,7 @@
 |22/09/2021| [Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) | Will be uploaded soon | Easy
 |22/09/2021| [Subarrays with equal 0s and 1s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1) | Will be uploaded soon | Medium
 |22/09/2021| [Common Elements](https://practice.geeksforgeeks.org/problems/common-elements1132/1) | Will be uploaded soon | Medium
+| 23/09/2021 | [Sum of Upper and Lower Triangles](https://practice.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1/?category[]=Matrix&category[]=Matrix&page=1&query=category[]Matrixpage1category[]Matrix) | Will be uploaded soon | Basic |
+| 23/09/2021 | [Convert array into Zig-Zag](https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1) | Will be uploaded soon | Basic |
+| 23/09/2021 | [Max Dist between Same Elements](https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1) | Will be uploaded soon | Easy |
 
