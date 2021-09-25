@@ -19,7 +19,7 @@
 |09.|21/09/2021| [Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | [CPP](rotate_by_one.cpp) &nbsp; [Java](rotate_by_one.java) | Basic
 |10.|21/09/2021| [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1) | [CPP](missing_no.cpp) &nbsp; [Java](missing_no.java) | Easy |
 |11.|21/09/2021| [Rearrange Array Alternately](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) | [CPP](rearrange_array_alternately.cpp) &nbsp; [Java](rearrange_array_alternately.java) | Medium
-|12.|21/09/2021| [Count pairs with given sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1) | Will be uploaded soon| Medium
+|12.|21/09/2021| [Count pairs with given sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1) | [CPP](count_pairs_with_given_sum.cpp) &nbsp; [Java](count_pairs_with_given_sum.java) | Medium
 |13.|22/09/2021| [Multiply Matrices](https://practice.geeksforgeeks.org/problems/multiply-matrices/1) | Will be uploaded soon | Easy
 |14.|22/09/2021| [Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) | Will be uploaded soon | Easy
 |15.|22/09/2021| [Subarrays with equal 0s and 1s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1) | Will be uploaded soon | Medium
