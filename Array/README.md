@@ -6,7 +6,8 @@
 | ---  | ------ | -------------- |
 
 ## Questions for practice
-<<<<<<< HEAD
+ change
+ HEAD
 | Date | Question | Solution| Difficulty |
 | ---  | ------ | :--------------: | ----- |
 |19/09/2021| [Swap kth element](https://practice.geeksforgeeks.org/problems/swap-kth-elements5500/1/?category[]=Arrays&category[]=Arrays&difficulty[]=-2&page=1&query=category[]Arraysdifficulty[]-2page1category[]Arrays)|[CPP](Swap_kth_element.cpp) &nbsp; [Java](Swap_kth_element.java)| Basic |
@@ -21,7 +22,8 @@
 |21/09/2021| [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1) | Will be uploaded soon| Easy
 |21/09/2021| [Rearrange Array Alternately](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) | Will be uploaded soon| Medium
 |21/09/2021| [Count pairs with given sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1) | Will be uploaded soon| Medium
-=======
+
+main
 | S. No| Date | Question | Solution| Difficulty |
 | --- | ---  | ------ | :--------------: | ----- |
 |01.|19/09/2021| [Swap kth element](https://practice.geeksforgeeks.org/problems/swap-kth-elements5500/1/?category[]=Arrays&category[]=Arrays&difficulty[]=-2&page=1&query=category[]Arraysdifficulty[]-2page1category[]Arrays)|[CPP](Swap_kth_element.cpp) &nbsp; [Java](Swap_kth_element.java)| Basic |
@@ -45,4 +47,6 @@
 |19.| 23/09/2021 | [Max Dist between Same Elements](https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1) | Will be uploaded soon | Easy |
 |20.| 24/09/2021 | [Left Rotate Matrix k times](https://practice.geeksforgeeks.org/problems/left-rotate-matrix-k-times2351/0/?category[]=Matrix&category[]=Matrix&page=1&query=category[]Matrixpage1category[]Matrix) | Will be uploaded soon | Easy |
 |21.| 24/09/2021 | [Make Matrix Beautiful](https://practice.geeksforgeeks.org/problems/make-matrix-beautiful-1587115620/1/?category[]=Matrix&category[]=Matrix&page=1&query=category[]Matrixpage1category[]Matrix) | Will be uploaded soon | Medium |
->>>>>>> f19fca048f2b39dd62f9ed596b6075dfe038c72e
+ change
+ f19fca048f2b39dd62f9ed596b6075dfe038c72e
+ main
