@@ -18,7 +18,9 @@ Questions can be asked by raising an `Issue`.
 ```
   click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
 ```
+
 OR
+
 - Using git on your local machine. Do this to download the forked copy of this repo to your computer
 
 ```
@@ -86,9 +88,8 @@ Hurray! You successfully made a contribution!
 
 ---
 
-
 ## Participants -
 
 1. [Adarsh](https://github.com/geeky01adarsh) => [Repo](https://github.com/geeky01adarsh/DSA-Marathon)
-
+2. [Kapil](https://github.com/kapil-bhale) => [Repo](https://github.com/kapilbhale/DSA_Marathon)
 <!-- Enter your names below this line -->

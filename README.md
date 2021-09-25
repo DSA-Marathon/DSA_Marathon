@@ -13,7 +13,7 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 </p>
 </div>
 
-- [Resistration Form](https://docs.google.com/forms/d/e/1FAIpQLSeSWXG04wekDV13L_nrPYsMSdRyhbCcRsWQkzdfNg_iTSHc_w/viewform)
+- [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeSWXG04wekDV13L_nrPYsMSdRyhbCcRsWQkzdfNg_iTSHc_w/viewform)
 - [Syllabus](Syllabus.md)
 - [Faqs](faqs.md)
 <!-- - [Code of Conduct](Code_of_Conduct.md) -->
@@ -21,6 +21,7 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 ### Topics
 - [Git and Github](/Git_and_Github)
 - [Basic Language Questions](/Basic_language_ques)
+- [Time and Space Complexity](/Time_and_Space_Complexity)
 - [Array](/Array)
 
 ## Follow for More Update
