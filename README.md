@@ -23,6 +23,7 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 - [Basic Language Questions](/Basic_language_ques)
 - [Time and Space Complexity](/Time_and_Space_Complexity)
 - [Array](/Array)
+- [Searching and Sorting](/Searching_and_Sorting)
 
 ## Follow for More Update
 <h2 align='center'><a href='https://linktr.ee/dsa_marathon'> DSA MARATHON </a></h2>
