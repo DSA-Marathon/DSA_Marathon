@@ -1,11 +1,8 @@
 // Solution from line no. 36 in class Compute
 
-
-import java.util.*;
-import java.lang.*;
 import java.io.*;
 
-class GFG {
+class largest_element {
 	public static void main(String[] args) throws IOException
 	{
 	        BufferedReader br =

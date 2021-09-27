@@ -5,7 +5,7 @@
 import java.io.*;
 import java.util.*;
 
-public class GFG {
+public class count_pairs_with_given_sum {
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -20,7 +20,7 @@ public class GFG {
             for (int i = 0; i < n; i++) {
                 arr[i] = Integer.parseInt(inputLine[i]);
             }
-            int ans = new Solution().getPairsCount(arr, n, k);
+            int ans = new GFG().getPairsCount(arr, n, k);
             System.out.println(ans);
         }
     }
@@ -30,7 +30,7 @@ public class GFG {
 
 //User function Template for Java
 
-class Solution {
+class GFG {
     int getPairsCount(int[] arr, int n, int sum) {
         HashMap<Integer, Integer> hm = new HashMap<>();
  

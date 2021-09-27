@@ -3,11 +3,10 @@
 
 //Initial Template for Java
 
-import java.util.*;
-import java.lang.*;
+
 import java.io.*;
 
-class GFG {
+class rotate_by_one {
 	public static void main(String[] args) throws IOException
 	{
 	        BufferedReader br =
@@ -24,7 +23,7 @@ class GFG {
                 a[i] = Integer.parseInt(inputLine[i]);
             }
             
-            Compute obj = new Compute();
+            solve obj = new solve();
             obj.rotate(a, n);
             
             StringBuilder output = new StringBuilder();
@@ -41,7 +40,7 @@ class GFG {
 
 //User function Template for Java
 
-class Compute {
+class solve {
     
     public void rotate(int arr[], int n)
     {
