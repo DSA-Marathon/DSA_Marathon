@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-class Product
+class product_of_ele
 {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -21,6 +21,7 @@ class Product
               Long mod = 1000000007L;
               GfG gfg = new GfG();
               System.out.println(gfg.product(arr, mod, n));
+              sc.close();
         }
     }
 }// } Driver Code Ends
@@ -35,7 +36,7 @@ class Product
 */
 class GfG
 {
-    public static Long product(Long arr[], Long mod, int n)
+    public Long product(Long arr[], Long mod, int n)
     {
         //yout code here
         Long ans = mod/mod;

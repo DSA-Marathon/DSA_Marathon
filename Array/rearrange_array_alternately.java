@@ -1,11 +1,9 @@
 // solution is in class solution
 
 
-import java.util.*;
-import java.lang.*;
 import java.io.*;
 
-class Main {
+class rearrange_array_alternately {
 	public static void main (String[] args)throws IOException
 	{
 
@@ -31,7 +29,7 @@ class Main {
 		    
 		    // StringBuffer sb = new StringBuffer();
 		    
-		    Solution ob = new Solution();
+		    Sol ob = new Sol();
 		    
 		    //calling rearrange() function
 		    ob.rearrange(temp, n);
@@ -50,12 +48,12 @@ class Main {
 // } Driver Code Ends
 
 
-class Solution{
+class Sol{
     
     // temp: input array
     // n: size of array
     //Function to rearrange  the array elements alternately.
-    public static void rearrange(int arr[], int n){
+    public void rearrange(int arr[], int n){
         
         // Your code here
         //Initialising index of first minimum and first maximum element. 

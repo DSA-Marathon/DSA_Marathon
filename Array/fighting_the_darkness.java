@@ -4,8 +4,8 @@
 //Initial Template for Java
 
 import java.io.*;
-import java.util.*;
-class GFG{
+
+class fighting_the_darkness{
     public static void main(String[] args) throws IOException 
     {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -19,7 +19,7 @@ class GFG{
             for (int i = 0; i < n; i++) {
                 arr[i] = Long.parseLong(a1[i]);
             }
-            Solution ob = new  Solution();
+            Solve ob = new  Solve();
             System.out.println(ob.maxDays(arr,n));
         }
     }
@@ -29,7 +29,7 @@ class GFG{
 
 //User function Template for Java
 
-class Solution{
+class Solve{
     long maxDays(long arr[], int n){
         // code here 
         long max = arr[0];
