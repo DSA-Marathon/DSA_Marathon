@@ -1,9 +1,9 @@
-import java.io.*;
+import java.io.IOException;
 import java.util.*;
 
 class Searching_a_number {
     // Driver code
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws IOException {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
         while (t-- > 0) {

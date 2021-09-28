@@ -1,7 +1,6 @@
 //Solution at line 34
 
 import java.util.*;
-import java.lang.*;
 import java.io.*;
 
 class Searching_an_element
