@@ -1,3 +1,5 @@
+// Solution at line 43
+
 import java.util.Scanner;
 import java.io.IOException;
 
@@ -37,6 +39,7 @@ class peak_element{
 		}
         sc.close();
     }
+    //Solution
     static int peakElement(int[] arr,int n)
     {
         if(n>1&&arr[0]>arr[1])
@@ -59,4 +62,7 @@ class peak_element{
         return 0;
     }
 }
-
+/*
+ First we check if the first and last elements are peak element if found true then we return them or their is only one element then we return 0.
+ Else we transverse across the array and check for every element.
+*/
