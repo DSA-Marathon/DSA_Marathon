@@ -23,4 +23,10 @@
 | 07. | 30/09/2021 | [Geek and his Marks](https://practice.geeksforgeeks.org/problems/geek-and-his-marks-1611824243/0/?category[]=Searching&category[]=Searching&page=1&query=category[]Searchingpage1category[]Searching) | Will be uploaded Soon | Easy |
 | 08. | 01/10/2021 | [Sort by set bit count](https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count1153/1) | Will be uploaded Soon | Easy |
 | 09. | 01/10/2021 | [kth Smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1/?category[]=Searching&category[]=Searching&page=2&query=category[]Searchingpage2category[]Searching) | Will be uploaded Soon | Medium |
+| 10. | 03/10/2021 | [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | Will be uploaded Soon | Easy |
+| 11. | 03/10/2021 | [Largest Even Number](https://practice.geeksforgeeks.org/problems/largest-even-number3821/1) | Will be uploaded Soon | Easy |
+| 12. | 04/10/2021 | [Selection sort](https://practice.geeksforgeeks.org/problems/selection-sort/1/?category[]=Sorting&category[]=Sorting&page=2&query=category[]Sortingpage2category[]Sorting) | Will be uploaded Soon | Easy |
+| 13. | 04/10/2021 | [Counting Sort](https://practice.geeksforgeeks.org/problems/counting-sort/1/?category[]=Sorting&category[]=Sorting&page=1&query=category[]Sortingpage1category[]Sorting) | Will be uploaded Soon | Easy |
+| 14. | 04/10/2021 | [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | Will be uploaded Soon | Easy |
+
 
