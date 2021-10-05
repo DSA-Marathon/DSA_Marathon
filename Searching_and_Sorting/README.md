@@ -8,6 +8,7 @@
 | 03. | 27/09/2021| [Minimum Difference Pair](https://practice.geeksforgeeks.org/problems/minimum-difference-pair5444/1/?category[]=Sorting&category[]=Sorting&difficulty[]=-1&page=1&query=category[]Sortingdifficulty[]-1page1category[]Sorting) | [Java](Minimum_difference_pair.java) &nbsp; [CPP](Minimum_difference_pair.cpp)| Basic |
 | 04. | 28/09/2021 | [Peak Element](https://practice.geeksforgeeks.org/problems/peak-element/1) | [Java](peak_element.java) | Easy |
 | 05. | 30/09/2021 | [Search in row-column Sorted Matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1/?category[]=Searching&category[]=Searching&page=1&query=category[]Searchingpage1category[]Searching) | Will be uploaded Soon | Easy |
+| 06. | 06/10/2021 | [Searching in an array where adjacent differ by at most k](https://practice.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k0456/1) | Will be updated soon | Easy |
 
 # Sorting
 
@@ -28,5 +29,5 @@
 | 12. | 04/10/2021 | [Selection sort](https://practice.geeksforgeeks.org/problems/selection-sort/1/?category[]=Sorting&category[]=Sorting&page=2&query=category[]Sortingpage2category[]Sorting) | Will be uploaded Soon | Easy |
 | 13. | 04/10/2021 | [Counting Sort](https://practice.geeksforgeeks.org/problems/counting-sort/1/?category[]=Sorting&category[]=Sorting&page=1&query=category[]Sortingpage1category[]Sorting) | Will be uploaded Soon | Easy |
 | 14. | 04/10/2021 | [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | Will be uploaded Soon | Easy |
-
-
+| 15. | 05/10/2021 | [Bubbe sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) | Will be updated soon | Easy |
+| 16. | 05/10/2021 | [Minimum Swaps](https://practice.geeksforgeeks.org/problems/minimum-swaps/1/?category[]=Sorting&category[]=Sorting&difficulty[]=0&difficulty[]=1&page=1&query=category[]Sortingdifficulty[]0difficulty[]1page1category[]Sorting) | Will be upated | Medium |
