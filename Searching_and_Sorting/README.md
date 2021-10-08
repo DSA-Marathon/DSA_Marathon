@@ -31,3 +31,6 @@
 | 14. | 04/10/2021 | [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | Will be uploaded Soon | Easy |
 | 15. | 05/10/2021 | [Bubbe sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) | Will be uploaded soon | Easy |
 | 16. | 05/10/2021 | [Minimum Swaps](https://practice.geeksforgeeks.org/problems/minimum-swaps/1/?category[]=Sorting&category[]=Sorting&difficulty[]=0&difficulty[]=1&page=1&query=category[]Sortingdifficulty[]0difficulty[]1page1category[]Sorting) | Will be uploaded soom | Medium |
+| 17. | 07/10/2021 | [Rope Cutting](https://practice.geeksforgeeks.org/problems/rope-cutting3334/0/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be uploaded soon | Easy |
+| 18. | 07/10/2021 | [K larger values](https://practice.geeksforgeeks.org/problems/k-larger-values/0/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be uploaded soon | Easy |
+| 19. | 07/10/2021 | [Punish the students](https://practice.geeksforgeeks.org/problems/punish-the-students5726/0/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be upladed soon | Easy |
