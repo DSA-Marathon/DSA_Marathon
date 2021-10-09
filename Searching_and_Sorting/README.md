@@ -9,6 +9,7 @@
 | 04. | 28/09/2021 | [Peak Element](https://practice.geeksforgeeks.org/problems/peak-element/1) | [Java](peak_element.java) | Easy |
 | 05. | 30/09/2021 | [Search in row-column Sorted Matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1/?category[]=Searching&category[]=Searching&page=1&query=category[]Searchingpage1category[]Searching) | Will be uploaded Soon | Easy |
 | 06. | 06/10/2021 | [Searching in an array where adjacent differ by at most k](https://practice.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k0456/1) | Will be uploaded soon | Easy |
+| 07. | 08/10/2021 | [The optimal Solution](https://practice.geeksforgeeks.org/problems/the-optimal-selection5413/0/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be uploaded soon | Easy |
 
 # Sorting
 
@@ -33,4 +34,6 @@
 | 16. | 05/10/2021 | [Minimum Swaps](https://practice.geeksforgeeks.org/problems/minimum-swaps/1/?category[]=Sorting&category[]=Sorting&difficulty[]=0&difficulty[]=1&page=1&query=category[]Sortingdifficulty[]0difficulty[]1page1category[]Sorting) | Will be uploaded soom | Medium |
 | 17. | 07/10/2021 | [Rope Cutting](https://practice.geeksforgeeks.org/problems/rope-cutting3334/0/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be uploaded soon | Easy |
 | 18. | 07/10/2021 | [K larger values](https://practice.geeksforgeeks.org/problems/k-larger-values/0/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be uploaded soon | Easy |
-| 19. | 07/10/2021 | [Punish the students](https://practice.geeksforgeeks.org/problems/punish-the-students5726/0/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be upladed soon | Easy |
+| 19. | 07/10/2021 | [Punish the students](https://practice.geeksforgeeks.org/problems/punish-the-students5726/0/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be uploaded soon | Easy |
+| 20. | 08/10/2021 | [Merging two unsorted array in sorted order](https://practice.geeksforgeeks.org/problems/merging-two-unsorted-arrays-in-sorted-order1020/1/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be uploaded soon | Easy |
+| 21. | 08/10/2021 | [Sorting all array elements except one](https://practice.geeksforgeeks.org/problems/sorting-all-array-elements-except-one4653/0/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be uploaded soon | Easy |
