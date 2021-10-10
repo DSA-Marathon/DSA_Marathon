@@ -37,3 +37,51 @@
 | 19. | 07/10/2021 | [Punish the students](https://practice.geeksforgeeks.org/problems/punish-the-students5726/0/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be uploaded soon | Easy |
 | 20. | 08/10/2021 | [Merging two unsorted array in sorted order](https://practice.geeksforgeeks.org/problems/merging-two-unsorted-arrays-in-sorted-order1020/1/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be uploaded soon | Easy |
 | 21. | 08/10/2021 | [Sorting all array elements except one](https://practice.geeksforgeeks.org/problems/sorting-all-array-elements-except-one4653/0/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be uploaded soon | Easy |
+
+
+
+## Theoritical Questions
+
+### Question 1
+Which of the following is not a stable sorting algorithm in its typical implementation.
+
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Bubble Sort
+
+### Question 2
+Which of the following sorting algorithms in its typical implementation 
+gives best performance when applied on an array which is sorted or 
+almost sorted (maximum 1 or two elements are misplaced).
+
+- Quick Sort
+- Heap Sort
+- Merge Sort
+- Insertion Sort
+
+
+### Question 3
+Consider a sorted array of n numbers and a number x.
+ What would be the time complexity of the best known algorithm
+ to find a triplet with sum equal to x.
+ For example, arr[] = {1, 5, 10, 15, 20, 30}, x = 40. 
+Then there is a triplet {5, 15, 20} with sum 40.
+
+
+- O(n)
+- O(n^2)
+- O(n Log n)
+- O(n^3)
+
+### Question 4
+Given an unsorted array. The array has this property that
+every element in array is at most k distance from its position in 
+sorted array where k is a positive integer smaller than size of array. 
+Which sorting algorithm can be easily modified for sorting this array and
+ what is the obtainable time complexity?
+
+- Insertion Sort with time complexity O(kn)
+- Heap Sort with time complexity O(nLogk)
+- Quick Sort with time complexity O(kLogk)
+- Merge Sort with time complexity O(kLogk)
