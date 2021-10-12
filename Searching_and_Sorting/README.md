@@ -10,6 +10,8 @@
 | 05. | 30/09/2021 | [Search in row-column Sorted Matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1/?category[]=Searching&category[]=Searching&page=1&query=category[]Searchingpage1category[]Searching) | Will be uploaded Soon | Easy |
 | 06. | 06/10/2021 | [Searching in an array where adjacent differ by at most k](https://practice.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k0456/1) | Will be uploaded soon | Easy |
 | 07. | 08/10/2021 | [The optimal Solution](https://practice.geeksforgeeks.org/problems/the-optimal-selection5413/0/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be uploaded soon | Easy |
+| 08. | 11/10/2021 | [Check if the array is sorted or not](https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/0/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) | Will be uploaded soon | Easy |
+| 09. | 11/10/2021 | [Race in fooland](https://practice.geeksforgeeks.org/problems/race-in-fooland4522/0/?difficulty[]=0&category[]=Sorting&page=1&query=difficulty[]0category[]Sortingpage1) || Will be uploaded soon | Easy |
 
 # Sorting
 
@@ -85,3 +87,26 @@ Which sorting algorithm can be easily modified for sorting this array and
 - Heap Sort with time complexity O(nLogk)
 - Quick Sort with time complexity O(kLogk)
 - Merge Sort with time complexity O(kLogk)
+
+
+### Question 5 
+The minimum number of comparisons required to determine if an
+integer appears more than n/2 times in a sorted array of n integers is( GATE CS 2008)
+
+- Θ(n)
+- Θ(logn)
+- Θ(log*n)
+- Θ(1)
+
+### Question 6
+A program P reads in 500 integers in the range [0..100] exepresenting the
+scores of 500 students. It then prints the frequency of each score above 50.
+What would be the best way for P to store the frequencies?  (GATE CS 2005)
+
+-  An array of 50 numbers
+- An array of 100 numbers
+- An array of 500 number- A dynamically allocated array of 550 numbers
+
+
+
+ 
