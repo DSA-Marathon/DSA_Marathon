@@ -21,6 +21,8 @@
 | 14. | 20/10/2021 | [Sum of all Divisor frome 1-to-n](https://practice.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/0/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical) | Will be uploaded soon | Easy |
 | 15. | 21/10/2021 | [Break a number](https://practice.geeksforgeeks.org/problems/break-a-number5913/1/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical) | Will be uploaded soon | Easy |
 | 16. | 21/10/2021 | [Rearrange an array with O(1) extra space](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical) | Will be uploaded soon | Medium |
+| 17. | 22/10/2021 | [Sum of divisors](https://practice.geeksforgeeks.org/problems/find-sum-of-divisors5636/1/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical) | Will be uploaded soon | Easy |
+| 18. | 22/10/2021 | [Square Root of a number](https://practice.geeksforgeeks.org/problems/square-root/1/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical) | Will be uploaded soon | Medium |
 
 
 # Bit Manipulation
