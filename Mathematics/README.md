@@ -30,3 +30,7 @@
 ## Questions for practice
 | S. No| Date | Question | Solution| Difficulty |
 | --- | ---  | ------ | :--------------: | ----- |
+| 01. | 25/10/2021 | [Find the position of set bit](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1) | Will be uploaded soon | Easy |
+| 02. | 25/10/2021 | [Invert the bits](https://practice.geeksforgeeks.org/problems/invert-the-bits2942/1) | Will be uploaded soon | Easy |
+| 03. | 25/10/2021 | [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | Will be uploaded soon | Easy |
+| 04. | 25/10/2021 | [Swap all even and odd bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/0/) | Will be uploaded soon | Easy |
