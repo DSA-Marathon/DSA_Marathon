@@ -38,3 +38,5 @@
 | 0r. | 26/10/2021 | [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/0/?category[]=Bit%20Magic&page=1&query=category[]Bit%20Magicpage1) | Will be uploaded soon | Easy |
 | 07. | 26/10/2021 | [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1) | Will be uploaded soon | Easy |
 | 08. | 26/10/2021 | [Sort by set bits count](https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count1153/1) | Will be uploaded soon | Easy |
+| 09. | 27/10/2021 | [Power Set](https://practice.geeksforgeeks.org/problems/power-set4302/1) | Will be uploaded soon | Easy |
+| 10. | 27/10/2021 | [Division without using multiplication, division and mod](https://practice.geeksforgeeks.org/problems/power-set4302/1) | Will be uploaded soon | Easy | 
