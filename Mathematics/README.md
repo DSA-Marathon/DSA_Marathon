@@ -34,3 +34,7 @@
 | 02. | 25/10/2021 | [Invert the bits](https://practice.geeksforgeeks.org/problems/invert-the-bits2942/1) | Will be uploaded soon | Easy |
 | 03. | 25/10/2021 | [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | Will be uploaded soon | Easy |
 | 04. | 25/10/2021 | [Swap all even and odd bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/0/) | Will be uploaded soon | Easy |
+| 05. | 26/10/2021 | [Number of 1 bits](https://practice.geeksforgeeks.org/problems/set-bits0143/1) | Will be uploaded soon | Easy |
+| 0r. | 26/10/2021 | [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/0/?category[]=Bit%20Magic&page=1&query=category[]Bit%20Magicpage1) | Will be uploaded soon | Easy |
+| 07. | 26/10/2021 | [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1) | Will be uploaded soon | Easy |
+| 08. | 26/10/2021 | [Sort by set bits count](https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count1153/1) | Will be uploaded soon | Easy |
