@@ -40,3 +40,8 @@
 | 08. | 26/10/2021 | [Sort by set bits count](https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count1153/1) | Will be uploaded soon | Easy |
 | 09. | 27/10/2021 | [Power Set](https://practice.geeksforgeeks.org/problems/power-set4302/1) | Will be uploaded soon | Easy |
 | 10. | 27/10/2021 | [Division without using multiplication, division and mod](https://practice.geeksforgeeks.org/problems/power-set4302/1) | Will be uploaded soon | Easy | 
+| 11. | 28/10/2021 | [Sum of two numbers without using arithmetic operators](https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-without-using-arithmetic-operators/0/?fbclid=IwAR36dqLN4la8-4mPscqZZ8Is21cMutiN4LA0txUNBVCO9Tb6n0PeS6hhrk4) | Will be uploaded soon | Easy |
+| 12. | 28/10/2021 | [Express N as 4 prime numbers](https://practice.geeksforgeeks.org/problems/express-n-as-sum-of-4-prime-numbers5451/0/?category[]=Prime%20Number&category[]=Prime%20Number&page=1&query=category[]Prime%20Numberpage1category[]Prime%20Number) | Will be uploaded soon | Easy |
+| 13. | 28/10/2021 | [Maximum XOR of two numbers](https://practice.geeksforgeeks.org/problems/maximum-xor-of-two-numbers-in-an-array/0/) | Will be uploaded soon | Easy | 
+| 14. | 29/10/2021 | [Maximize the volume of cuboid](https://practice.geeksforgeeks.org/problems/maximize-the-volume-of-cuboid5632/0/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical) | Will be uploaded soon | Easy |
+| 15. | 29/10/2021 | [Power of largest prime](https://practice.geeksforgeeks.org/problems/reverse-coding2452/0/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical) | Will be uploaded soon | Easy |  
