@@ -18,6 +18,7 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 - [Faqs](faqs.md)
 <!-- - [Code of Conduct](Code_of_Conduct.md) -->
 <!-- - [How to get started](Get_Stated.md) -->
+
 ### Topics
 - [Git and Github](/Git_and_Github)
 - [Basic Language Questions](/Basic_language_ques)
