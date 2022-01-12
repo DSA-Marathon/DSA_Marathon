@@ -69,3 +69,5 @@ A Collaboration Event Series by GFG IIST Chapter and CodeChef IIST Chapter
 </table> 
 <hr>
 <h1 align=center> Happy Coding 👨‍💻 </h1>
+
+This program is now over. Thank you for your support.
